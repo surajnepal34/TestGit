@@ -1,0 +1,2 @@
+Hey! I am using this text file to test if i can add the file to the git or not.
+you know git is a version control tool right.
